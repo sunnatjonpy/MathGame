@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  2 20:04:03 2023
-
-@author: User
-"""
-
 from tkinter import *
 import random as r
 
