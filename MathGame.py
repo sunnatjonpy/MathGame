@@ -30,7 +30,6 @@ def minus():
         result.config(text="Correct!",fg='green')
     else:
         result.config(text="Incorrect!",fg='red')
-
 def kop():
     kopaytma = random1*random2
     amal.config(text="*")
